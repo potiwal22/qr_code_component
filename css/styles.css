@@ -1,0 +1,35 @@
+body {
+    background-color: #C4D7E0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+    background-color: #fff;
+    margin: auto;
+    padding-top: 1.5rem;
+    padding-bottom: 2.5rem;
+    border-radius: 5%;
+    max-width: 425px;
+    height: 530px;
+}
+
+img {
+    border-radius: 5%;
+    max-width: 370px;
+    height: auto;
+}
+
+h2 {
+    padding: 2px 30px;
+    font-weight: 700;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+}
+
+p {
+    padding: 2px 30px;
+    font-weight: 500;
+    color: #8f8f8f;
+    letter-spacing: 1px;
+}
